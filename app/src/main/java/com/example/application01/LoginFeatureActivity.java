@@ -1,4 +1,4 @@
 package com.example.application01;
 
-public class LoginActivity {
+public class LoginFeatureActivity {
 }
